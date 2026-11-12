@@ -48,19 +48,10 @@
 
 ---
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rln005&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rln005&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+### 📊 GitHub streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rln005&theme=github-dark-blue&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rln005&theme=github-compact&hide_border=true&area=true" />
 </p>
 
 ---
